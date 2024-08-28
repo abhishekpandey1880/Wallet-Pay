@@ -14,3 +14,8 @@ git clone https://github.com/abhishekpandey1880/Wallet-Pay.git
     - npx prisma db seed
 - Go to `apps/user-app` , run `npm run dev`
 - Try logging in using phone - 1111111111 , password - alice (See `seed.ts`)
+
+## Some Images of The App
+
+![App Image 1](photos/1.png)
+![App Image 2](photos/2.png)
